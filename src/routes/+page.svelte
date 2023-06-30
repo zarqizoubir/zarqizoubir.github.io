@@ -6,6 +6,11 @@
 	import Home from '$lib/Sections/Home.svelte';
 </script>
 
+<svelte:head>
+  <title>
+     Ezzoubair | Portfolio Site
+  </title>
+</svelte:head>
 
 
 
