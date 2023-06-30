@@ -8,7 +8,10 @@ const config = {
     inspector: true,
   },
   kit: {
-    adapter: adapter(),
+    adapter: adapter({
+      pages: "docs",
+      assets: "docs",
+    }),
 
     paths: {
       base:
