@@ -8,11 +8,13 @@ const config = {
     inspector: true,
   },
   kit: {
+    prerender: {
+      handleMissingId: "ignore",
+    },
     adapter: adapter(),
 
     paths: {
-      base:
-        process.env.NODE_ENV === "production" ? "/sveltekit-github-pages" : "",
+      base: process.env.NODE_ENV === "production" ? "" : "",
     },
   },
 };
