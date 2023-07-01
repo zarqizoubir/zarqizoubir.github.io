@@ -2,7 +2,7 @@
 </script>
 
 <li class="l-section section">
-	<div class="contact">
+	<div class="contact" style="background-image: url('/assets/img/contact-visual.png');">
 		<div class="contact--lockup">
 			<div class="modal">
 				<div class="modal--information">

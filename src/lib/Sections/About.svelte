@@ -30,13 +30,13 @@
 			<img src="/assets/img/about-visual.png" alt="About Us" />
 		</div>
 		<div class="about--options">
-			<a href="#0">
+			<a href="#0" style="background-image: url(/assets/img/about-winners.jpg);">
 				<h3>Winners</h3>
 			</a>
-			<a href="#0">
+			<a href="#0" style="background-image: url(/assets/img/about-philosophy.jpg);">
 				<h3>Philosophy</h3>
 			</a>
-			<a href="#0">
+			<a href="#0" style="background-image: url(/assets/img/about-history.jpg);">
 				<h3>History</h3>
 			</a>
 		</div>
