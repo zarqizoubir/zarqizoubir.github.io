@@ -4,6 +4,8 @@
 	export let options: any = [];
 </script>
 
+
+
 <span class="options-a">
 	{#each options as option, i}
 		<input id="opt-{i}" type="checkbox" value="app design" />
