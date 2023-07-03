@@ -49,7 +49,7 @@
 							href="mailto:ezzoubair.zarqi@etu.uae.ac.ma"
 						>
 							<i style="font-size: 20px;" class="ti ti-mail-filled" />
-							<span>Contact Us</span>
+							<span style="font-weight: 700;">Contact Me</span>
 						</a>
 					</li>
 				</ul>
