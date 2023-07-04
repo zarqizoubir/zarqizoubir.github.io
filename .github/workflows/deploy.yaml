@@ -9,7 +9,7 @@ on:
   # added
     types: [closed]
   # removed
-    # branches: 'master'
+    branches: 'master'
 
 jobs:
   build_site:
