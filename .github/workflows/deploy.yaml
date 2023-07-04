@@ -3,12 +3,11 @@ name: Deploy to GitHub Pages
 
 on:
   # removed
-  # push:
+  push:
   # added
   pull_request:
   # added
     types: [closed]
-  # removed
     branches: 'master'
 
 jobs:
