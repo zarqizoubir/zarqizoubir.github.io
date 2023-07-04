@@ -16,8 +16,8 @@
 <About />
 <Facts />
 <Skills />
-<Resume />
-<Portfolio />
-<Services />
-<Testmonials />
+<!-- <Resume /> -->
+<!-- <Portfolio /> -->
+<!-- <Services /> -->
+<!-- <Testmonials /> -->
 <Contact />
