@@ -29,6 +29,7 @@ jobs:
       - name: build
         env:
           BASE_PATH: ''
+          SMTP: ${{ secrets.SMTP }}
         run: |
           pnpm run build
           touch build/.nojekyll
