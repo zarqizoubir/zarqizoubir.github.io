@@ -1,7 +1,12 @@
 name: Deploy to GitHub Pages
 
+
 on:
   push:
+  # added
+  pull_request:
+  # added
+    types: [closed]
     branches: 'master'
 
 jobs:
