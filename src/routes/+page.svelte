@@ -9,6 +9,10 @@
 	import About from '$lib/Sections/About.svelte';
 </script>
 
+<svelte:head>
+	<title>Ezzoubair PORTFOLIO</title>
+</svelte:head>
+
 <About />
 <Facts />
 <Skills />
