@@ -2,12 +2,14 @@ name: Deploy to GitHub Pages
 
 
 on:
-  push:
+  # removed
+  # push:
   # added
   pull_request:
   # added
     types: [closed]
-    branches: 'master'
+  # removed
+    # branches: 'master'
 
 jobs:
   build_site:
