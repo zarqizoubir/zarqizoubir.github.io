@@ -12,7 +12,6 @@
 	data-aos-delay="100"
 >
 	<div class="count-box">
-		<i class="bi bi-journal-richtext" />
 		<slot />
 		<span
 			data-purecounter-start={start}
