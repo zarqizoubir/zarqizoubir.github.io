@@ -6,7 +6,7 @@
 </script>
 
 <div class="progress">
-	<span class="skill">{title} <i class="val">{value}%</i></span>
+	<span class="skill">🔴 <i class="mx-1" /> {title} <i class="val">{value}%</i></span>
 	<div class="progress-bar-wrap">
 		<div
 			class="progress-bar"

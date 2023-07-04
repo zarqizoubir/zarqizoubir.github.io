@@ -5,30 +5,30 @@
 	const factsFeed = [
 		{
 			title: 'Happy Clients',
-			headline: ' consequuntur quae',
+			headline: ' Just For now',
 			start: 0,
-			end: 232,
+			end: 1,
 			icon: 'bi bi-emoji-smile'
 		},
 		{
 			title: 'Projects',
-			headline: ' adipisci atque cum quia aut',
+			headline: ' I done a lot ',
 			start: 0,
-			end: 521,
+			end: 12,
 			icon: 'bi bi-journal-richtext'
 		},
 		{
 			title: 'Hours of Support',
 			headline: ' aut commodi quaerat',
 			start: 0,
-			end: 1453,
+			end: 0,
 			icon: 'bi bi-headset'
 		},
 		{
-			title: 'Hard Workers',
+			title: 'Hard Work',
 			headline: ' rerum asperiores dolor',
 			start: 0,
-			end: 32,
+			end: 20,
 			icon: 'bi bi-people'
 		}
 	];
