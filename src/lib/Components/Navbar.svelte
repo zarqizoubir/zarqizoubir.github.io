@@ -7,13 +7,27 @@
 	<div class="d-flex flex-column">
 		<div class="profile">
 			<img src="/avatar.jpeg" alt="" class="img-fluid rounded-circle" />
-			<h1 class="text-light"><a href="index.html">Alex Smith</a></h1>
+			<h1 class="text-light"><a href="index.html">Ezzoubair Zarqi</a></h1>
 			<div class="social-links mt-3 text-center">
-				<a href="#" class="twitter"><i class="bx bxl-twitter" /></a>
-				<a href="#" class="facebook"><i class="bx bxl-facebook" /></a>
-				<a href="#" class="instagram"><i class="bx bxl-instagram" /></a>
-				<a href="#" class="google-plus"><i class="bx bxl-skype" /></a>
-				<a href="#" class="linkedin"><i class="bx bxl-linkedin" /></a>
+				<a href="mailto:zarqi.ezzoubair@etu.uae.ac.ma" target="_blank" class="google-plus">
+					<i class="bx bxl-gmail" />
+				</a>
+
+				<a href="https://twitter.com/ezzoubairzarqi" target="_blank" class="twitter">
+					<i class="bx bxl-twitter" />
+				</a>
+
+				<a href="https://github.com/zarqizoubir/" target="_blank" class="github">
+					<i class="bx bxl-github" />
+				</a>
+
+				<a href="https://www.instagram.com/ezzoubair__zarqi/" target="_blank" class="instagram">
+					<i class="bx bxl-instagram" />
+				</a>
+
+				<a href="https://t.me/zoubirzarqi" target="_blank" class="telegram">
+					<i class="bx bxl-telegram" />
+				</a>
 			</div>
 		</div>
 
