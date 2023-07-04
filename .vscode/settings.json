@@ -1,5 +1,8 @@
 {
     "yaml.schemas": {
-        "https://json.schemastore.org/github-action.json": "file:///home/ezzoubair/Desktop/portfolio/.github/workflows/deploy.yaml"
+        "https://json.schemastore.org/github-action.json": [
+            "file:///home/ezzoubair/Desktop/portfolio/.github/workflows/deploy.yaml",
+            "file:///home/ezzoubair/Desktop/zarqizoubir.github.io/.github/workflows/deploy.yaml"
+        ]
     }
 }
