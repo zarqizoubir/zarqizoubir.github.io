@@ -46,11 +46,11 @@
 						><i class="bx bx-file-blank" /> <span>Resume</span></a
 					>
 				</li>
-				<!-- <li>
+				<li>
 					<a href="#portfolio" class="nav-link scrollto"
 						><i class="bx bx-book-content" /> <span>Portfolio</span></a
 					>
-				</li> -->
+				</li>
 				<!-- <li>
 					<a href="#services" class="nav-link scrollto"
 						><i class="bx bx-server" /> <span>Services</span></a
