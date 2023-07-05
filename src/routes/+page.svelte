@@ -13,13 +13,13 @@
 </script>
 
 <svelte:head>
-	<title>Ezzoubair PORTFOLIO</title>
+	<title>✨✨ Ezzoubair Zarqi ✨✨</title>
 </svelte:head>
 
 <About />
 <Facts />
 <Skills />
-<!-- <Resume /> -->
+<Resume />
 <!-- <Portfolio /> -->
 <!-- <Services /> -->
 <!-- <Testmonials /> -->
