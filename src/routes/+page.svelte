@@ -9,7 +9,6 @@
 		Facts,
 		About
 	} from '$lib/Sections';
-
 </script>
 
 <svelte:head>
@@ -20,7 +19,7 @@
 <Facts />
 <Skills />
 <Resume />
-<!-- <Portfolio /> -->
+<Portfolio />
 <!-- <Services /> -->
 <!-- <Testmonials /> -->
 <Contact />
