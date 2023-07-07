@@ -22,8 +22,8 @@
 							<img src="assets/img/portfolio/portfolio-details-3.jpg" alt="" />
 						</div>
 					</div>
-					<div class="swiper-pagination" />
 				</div>
+				<div class="swiper-pagination" />
 			</div>
 
 			<div class="col-lg-4">
