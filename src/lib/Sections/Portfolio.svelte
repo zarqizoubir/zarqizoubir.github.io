@@ -2,7 +2,11 @@
 	import { PortfolioHeader, PortfolioFilter, PortfolioItem } from '$lib/Widgets/Portfolio';
 
 	const items = [
-		{ imgSrc: 'projects_assets/django-docme.png', href: '/django-docme', filter: 'package' }
+		{
+			imgSrc: 'projects_assets/django-docme.png',
+			href: 'https://zarqizoubir.github.io/django-docme',
+			filter: 'package'
+		}
 	];
 
 	const filters = [{ name: 'Packages', filter: 'package' }];
