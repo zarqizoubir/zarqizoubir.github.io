@@ -6,6 +6,11 @@
 			imgSrc: 'projects_assets/django-docme.png',
 			href: 'https://zarqizoubir.github.io/django-docme',
 			filter: 'package'
+		},
+		{
+			imgSrc: 'projects_assets/pink-svelte.png',
+			href: 'https://zarqizoubir.github.io/pink-svelte',
+			filter: 'package'
 		}
 	];
 
